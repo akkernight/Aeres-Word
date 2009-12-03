@@ -1,0 +1,16 @@
+﻿ The .ui file
+	- Widget for the virtual paper
+
+The app
+	-  Make it read the .ui correctly and start
+
+The format
+	- Design  the Aeres Word file format (.xml style)
+	- Add LaTeX support
+	- Add rasterized graphics import support
+	- Add vector graphics(.svg specifically) import and manipulation
+
+The dlls
+	- The Aeres Word file format dll, which reads, writes and converts to and from the format
+	- The .doc and .docx format convert from and to the Aeres Word file format
+	- The .odt format convert from and to Aeres Word file format.
